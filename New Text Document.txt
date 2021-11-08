@@ -1,0 +1,7 @@
+@echo off
+
+echo Hello
+
+timeout 3
+
+netsh interface set interface Wi-Fi disable
